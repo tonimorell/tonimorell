@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **tonimorell/tonimorell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Toni Morell, a biologist that have just started a career in web development.
+### I'm Toni Morell, a biologist and web developer.
+
+**I started learning about bugs 🐞 and now I'm learning how to fix them 👩‍💻**
 
 You can find me here:
 
