@@ -31,9 +31,9 @@ Find here some of my other skills:
 
 [![PHP](https://img.shields.io/badge/PHP-8892bF?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7dF1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-0Fa84F?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-007690?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F6792?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 
 [![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorellb)](https://github.com/anuraghazra/github-readme-stats)
