@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 **I started learning about bugs 🐞 and now I'm learning how to fix them 👩‍💻**
 
+[![wakatime](https://wakatime.com/badge/user/0314f862-a840-4097-a5f5-e3b2f2c099f9.svg)](https://wakatime.com/@0314f862-a840-4097-a5f5-e3b2f2c099f9)
+
 You can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkkeIn-Toni_Morell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/toni-m-8458a1159)
@@ -32,7 +34,7 @@ In love with:
 Find here some of my other skills:
 
 [![PHP](https://img.shields.io/badge/PHP-8892bF?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-196D80?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7dF1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-0Fa84F?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-007690?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
