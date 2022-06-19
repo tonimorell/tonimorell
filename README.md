@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 You can find me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkkeIn-Toni_Morell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/toni-m-8458a1159)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toni_Morell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/toni-m-8458a1159)
 
 In love with:
 
