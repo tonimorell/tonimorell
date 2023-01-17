@@ -40,4 +40,4 @@ Find here some of my other skills:
 [![MySQL](https://img.shields.io/badge/MySQL-007690?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F6792?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 
-[![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorellb)](https://github.com/anuraghazra/github-readme-stats)
+[![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonimorell)](https://github.com/anuraghazra/github-readme-stats)
